@@ -18,26 +18,45 @@ Author- Sougata Kumar Maity
  -Loaded the raw flights dataset using pandas.
 
 2. Data Description
+<br>
  -| id | Unique identifier |
 <br>
  -| year | Flight year |
+<br>
  -| month | Flight month |
+<br>
  -| day | Flight day |
+<br>
  -| dep_time | Actual departure time |
+<br>
  -| sched_dep_time | Scheduled departure |
+<br>
  -| dep_delay | Departure delay (min) |
+<br>
  -| arr_time | Arrival time |
+<br>
  -| sched_arr_time | Scheduled arrival |
+<br>
  -| arr_delay | Arrival delay (min) |
+<br>
  -| carrier | Airline code |
+<br>
  -| flight | Flight number |
+<br>
  -| origin | Origin airport |
+<br>
  -| dest | Destination airport |
+<br>
  -| air_time | Flight duration |
+<br>
  -| distance | Distance traveled |
+<br>
  -| hour | Departure hour |
+<br>
  -| minute | Departure minute |
+<br>
  -| name | Airline name |
+
 
 3.Feature Engineering
  -Create column Flight Date
