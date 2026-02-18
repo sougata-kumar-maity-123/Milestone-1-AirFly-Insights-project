@@ -61,7 +61,7 @@ Author- Sougata Kumar Maity
 
 
 
-3.Feature Engineering
+ 3.Feature Engineering
 <br>
   -Create column Flight Date
  <br>
@@ -74,7 +74,7 @@ Author- Sougata Kumar Maity
   -Create column on_time 
 
  
-4.Data Cleaning
+ 4.Data Cleaning
  - Remove the missing values
  - Check Duplicate (0 duplicate found)
  Original shape: (336776, 26)
