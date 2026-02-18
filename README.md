@@ -15,10 +15,11 @@ Author- Sougata Kumar Maity
   
 ### Workflow
 1. Data Loading
+ <br>
  -Loaded the raw flights dataset using pandas.
 
 
-2. Data Description
+3. Data Description
 <br>
   -| id | Unique identifier |
 <br>
@@ -76,10 +77,15 @@ Author- Sougata Kumar Maity
  <br>
  <br>
  4.Data Cleaning
+ <br>
  - Remove the missing values
+ <br>
  - Check Duplicate (0 duplicate found)
+ <br>
  Original shape: (336776, 26)
+ <br>
 After dropping missing rows: (327346, 26)
+<br>
 
 
 ###Save processed data 
