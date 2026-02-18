@@ -19,56 +19,56 @@ Author- Sougata Kumar Maity
 
 2. Data Description
 <br>
- -| id | Unique identifier |
+  -| id | Unique identifier |
 <br>
- -| year | Flight year |
+  -| year | Flight year |
 <br>
- -| month | Flight month |
+  -| month | Flight month |
 <br>
- -| day | Flight day |
+  -| day | Flight day |
 <br>
- -| dep_time | Actual departure time |
+  -| dep_time | Actual departure time |
 <br>
- -| sched_dep_time | Scheduled departure |
+  -| sched_dep_time | Scheduled departure |
 <br>
- -| dep_delay | Departure delay (min) |
+  -| dep_delay | Departure delay (min) |
 <br>
- -| arr_time | Arrival time |
+  -| arr_time | Arrival time |
 <br>
- -| sched_arr_time | Scheduled arrival |
+  -| sched_arr_time | Scheduled arrival |
 <br>
- -| arr_delay | Arrival delay (min) |
+  -| arr_delay | Arrival delay (min) |
 <br>
- -| carrier | Airline code |
+  -| carrier | Airline code |
 <br>
- -| flight | Flight number |
+  -| flight | Flight number |
 <br>
- -| origin | Origin airport |
+  -| origin | Origin airport |
 <br>
- -| dest | Destination airport |
+  -| dest | Destination airport |
 <br>
- -| air_time | Flight duration |
+  -| air_time | Flight duration |
 <br>
- -| distance | Distance traveled |
+  -| distance | Distance traveled |
 <br>
- -| hour | Departure hour |
+  -| hour | Departure hour |
+ <br>
+  -| minute | Departure minute |
 <br>
- -| minute | Departure minute |
-<br>
- -| name | Airline name |
+  -| name | Airline name |
 
 
 3.Feature Engineering
 <br>
- -Create column Flight Date
+  -Create column Flight Date
  <br>
- -Create column day_of_week
+  -Create column day_of_week
  <br>
- -Create column route
+  -Create column route
  <br>
- -Create column cancelled 
+  -Create column cancelled 
  <br>
- -Create column on_time 
+  -Create column on_time 
 
  
 4.Data Cleaning
