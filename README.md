@@ -59,10 +59,15 @@ Author- Sougata Kumar Maity
 
 
 3.Feature Engineering
+<br>
  -Create column Flight Date
+ <br>
  -Create column day_of_week
+ <br>
  -Create column route
+ <br>
  -Create column cancelled 
+ <br>
  -Create column on_time 
 
  
