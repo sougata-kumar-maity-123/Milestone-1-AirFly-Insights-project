@@ -18,7 +18,8 @@ Author- Sougata Kumar Maity
  -Loaded the raw flights dataset using pandas.
 
 2. Data Description
- -| id | Unique identifier | 
+ -| id | Unique identifier |
+<br>
  -| year | Flight year |
  -| month | Flight month |
  -| day | Flight day |
